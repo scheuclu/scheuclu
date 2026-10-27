@@ -1,3 +1,3 @@
 # Lukas Scheucher
 
-Engineer. Former founder. Currently tinkering with what tiny language models can do.
+I like to work on cool stuff and have fun with the team doing so.
